@@ -1,0 +1,2 @@
+Quando o caminhão e o carro se cruzarem na rodovia, ambos estarão a mesma distância de Ribeirão Preto.
+Para chegar nesse resultado eu utilizei apenas a lógica, pois, quando o caminhão e o carro se cruzarem na rodovia, ou seja, passarem pelo mesmo ponto, eles estarão na mesma distância da cidade de Ribeirão Preto.
